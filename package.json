@@ -1,0 +1,22 @@
+{
+  "name": "silverstreet",
+  "version": "0.0.5",
+  "description": "Silverstreet HTTP MT API adapter for sending sms.",
+  "author": "Alexander Vasin <hello@alvass.in>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alvassin/nodejs-silverstreet.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alvassin/nodejs-silverstreet/issues"
+  },
+  "keywords": [
+    "sms", 
+    "text messages", 
+    "short message service", 
+    "silverstreet"
+  ],
+  "analyze": true,
+  "license": "MIT"
+}
